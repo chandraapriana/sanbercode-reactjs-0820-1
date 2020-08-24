@@ -1,6 +1,0 @@
-Data Peserta Sanbercode Bootcamp ReactJS
-1. Nama: Chandra Muhamad Apriana
-2. Email: aprianachandra@gmail.com
-3. Sistem Operasi yang digunakan: Windows 
-4. Akun Github: chandraapriana
-5. Akun Telegram: @chandra_ma
