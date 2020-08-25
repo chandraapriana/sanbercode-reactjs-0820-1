@@ -1,0 +1,79 @@
+.p-1 {
+  padding: 1rem;
+}
+
+.margin-content {
+  margin: 1rem 18rem;
+}
+
+.pr-2 {
+  padding-right: 2rem;
+}
+
+.pb-3 {
+  padding-bottom: 3rem;
+}
+
+.pb-2 {
+  padding-bottom: 2rem;
+}
+
+
+.top-0 {
+  margin-top: -0.5rem;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+}
+
+.padding-footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-white {
+  color: white;
+}
+
+.float-right {
+  float: right;
+}
+
+
+
+body {
+  background-image: url('../img/pattern.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.border-bottom {
+
+  border-bottom: 1px solid black;
+}
+
+
+.background-white {
+  background-color: white;
+}
+
+.background-black {
+  background-color: black;
+}
+
+.inline {
+  display: flex;
+  list-style: none;
+}
+
+.without-underline {
+  text-decoration: none;
+}
