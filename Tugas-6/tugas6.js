@@ -27,18 +27,18 @@ console.log(kalimat);
 
 //soal-3
 console.log("--SOAL 3--");
-let FirstName = "Chandra";
-let LastName = "Muhamad Apriana";
 
-const literal = {
-  FirstName,
-  LastName,
-  fullName() {
-    console.log(`${this.FirstName} ${this.LastName}`);
-  },
+const newFunction = (firstName, lastName) => {
+  return {
+    firstName,
+    lastName,
+    fullName: () => {
+      console.log(`${firstName} ${lastName}`);
+    },
+  };
 };
 
-console.log(literal.fullName());
+console.log(newFunction("William", "Imoh").fullName());
 
 //soal-4
 console.log("--SOAL 4--");
